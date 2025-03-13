@@ -6,7 +6,7 @@
   <a href="https://github.com/arileles">
   <img height="150" src="../README.md/Catkiss.gif">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arileles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img height="150" src="../README.md/Catkiss.gif">
+  <img height="150" src="assets/Catkiss.gif">
  
  ##
 
