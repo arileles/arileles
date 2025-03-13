@@ -1,13 +1,12 @@
 <div align="center">
- <h1><b><img src="../README.md/Catkiss.gif">
+ <h1><b><img width="400" height="400" src="src/assets/cat_yipee.gif">
  <i>Oie, Bem Vindo(a) ao meu Perfil!</i>
   <img src="https://raw.githubusercontent.com/arileles/arileles/main/READMEPASTA/assets/Catkiss.gif" ></b></h1> 
 
   <a href="https://github.com/arileles">
   <img height="150" src="../README.md/Catkiss.gif">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arileles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
-  <<img src="https://raw.githubusercontent.com/arileles/arileles/main/READMEPASTA/assets/Catkiss.gif" >
->
+  <img src="https://raw.githubusercontent.com/arileles/arileles/main/READMEPASTA/assets/Catkiss.gif" >
  
  ##
 
