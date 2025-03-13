@@ -1,7 +1,7 @@
 <div align="center">
- <h1><b><img height="30" src="">
+ <h1><b><img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/cat_yipee.gif">
  <i>Oie, Bem Vindo(a) ao meu Perfil!</i>
- <img height="30" src="../README.md/cat_yipee.gif"></b></h1> 
+ <img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/cat_yipee.gif"></b></h1> 
 
   <a href="https://github.com/arileles">
   <img height="150" src="../README.md/Catkiss.gif">
@@ -10,14 +10,14 @@
  
  ##
 
- ### <img height="20" src="https://emoji.gg/emoji/4364-umbreonrun"> <b>Estudando no Momento</b> <img height="20" src="https://emoji.gg/emoji/5757-espeonrun">
+ ### <img height="20" src="../README.md/melodyexcited.gif"> <b>Estudando no Momento</b> <img height="20" src="../README.md/melodyexcited.gif">
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  <img alt="Kubernetes" src="https://emoji.gg/emoji/14529-light-green-stars-scroll-right"/> 
  <img alt="Heroku" src="https://emoji.gg/emoji/14529-light-green-stars-scroll-right"/>
 
  ##
   
- ### <img height="30" src="../README.md/purple_fire.gif">  <b>Linguagens e Ferramentas que mais uso</b>  <img height="30" src="../README.md/purple_fire.gif">
+ ### <img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/purple_fire.gif">  <b>Linguagens e Ferramentas que mais uso</b>  <img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/purple_fire.gif">
  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardastef&layout=compact&langs_count=7&theme=tokyonight&hide_title=true"/>
  </br></br>
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank">
@@ -30,7 +30,7 @@
    
  ##
 
- ### <img height="20" src="../README.md/melodyexcited.gif"> <b>Tenho Conhecimento Em</b> <img height="20" src="../README.md/melodyexcited.gif">
+ ### <img height="20" src="https://github.com/arileles/arileles/blob/main/README.md/Catkiss.gif"> <b>Tenho Conhecimento Em</b> <img height="20" src="https://github.com/arileles/arileles/blob/main/README.md/Catkiss.gif">
  <h4>Frameworks</h4>
  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
@@ -54,7 +54,7 @@
 
  ##
 
- ### <img height="20" src="../README.md/Light_Green_Stars_Scroll_Right.gif"> <b>Tenho Interesse Em</b> <img height="20" src="../README.md/Light_Green_Stars_Scroll_Right.gif">
+ ### <img height="20" src="https://github.com/arileles/arileles/blob/main/README.md/pompomexcited.gif"> <b>Tenho Interesse Em</b> <img height="20" src="https://github.com/arileles/arileles/blob/main/README.md/pompomexcited.gif">
  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -72,13 +72,9 @@
 
  ##
  
- ### <img height="30" src="../README.md/pompomexcited.gif"> <b>Outras Redes Sociais</b> <img height="30" src="../README.md/pompomexcited.gif">
+ ### <img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/coffee.gif"> <b>Outras Redes Sociais</b> <img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/coffee.gif">
  <a href = "mailto:ariel.bieging@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/ariel-louise-bieging" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </br>
    
  ##
- 
- <img height="150" src="https://media.discordapp.net/attachments/767080390241812540/889857636604997712/teste.gif">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=arileles&theme=tokyonight" width="500">
-
 </div>
