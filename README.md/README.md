@@ -1,7 +1,7 @@
 <div align="center">
- <h1><b><img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/cat_yipee.gif">
+ <h1><b><img height="30" src="https://raw.githubusercontent.com/arileles/arileles/refs/heads/main/README.md/cat_yipee.gif">
  <i>Oie, Bem Vindo(a) ao meu Perfil!</i>
- <img height="30" src="https://github.com/arileles/arileles/blob/main/README.md/cat_yipee.gif"></b></h1> 
+ <img height="30" src="https://raw.githubusercontent.com/arileles/arileles/refs/heads/main/README.md/cat_yipee.gif"></b></h1> 
 
   <a href="https://github.com/arileles">
   <img height="150" src="../README.md/Catkiss.gif">
