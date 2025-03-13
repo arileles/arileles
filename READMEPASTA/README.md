@@ -1,7 +1,7 @@
 <div align="center">
- <h1><b><img height="30" src="https://cdn3.emoji.gg/emojis/2724-pompomexcited.gif">
+ <h1><b><img src="https://cdn3.emoji.gg/emojis/2724-pompomexcited.gif">
  <i>Oie, Bem Vindo(a) ao meu Perfil!</i>
- <img height="30" src="../READMEPASTA/assets/Catkiss.gif"></b></h1> 
+ <img src="../READMEPASTA/assets/Catkiss.gif"></b></h1> 
 
   <a href="https://github.com/arileles">
   <img height="150" src="../README.md/Catkiss.gif">
