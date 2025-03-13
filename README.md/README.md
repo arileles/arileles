@@ -1,5 +1,5 @@
 <div align="center">
- <h1><b><img height="30" src="https://raw.githubusercontent.com/arileles/arileles/main/READMEPASTA/assets/cat_yipee.gif">
+ <h1><b><img height="30" src="https://cdn3.emoji.gg/emojis/2724-pompomexcited.gif">
  <i>Oie, Bem Vindo(a) ao meu Perfil!</i>
  <img height="30" src="https://raw.githubusercontent.com/arileles/arileles/refs/heads/main/README.md/cat_yipee.gif"></b></h1> 
 
