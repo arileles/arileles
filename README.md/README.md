@@ -4,9 +4,9 @@
  <img height="30" src="https://emoji.gg/emoji/2579-cat-yipee"></b></h1> 
 
   <a href="https://github.com/arileles">
-  <img height="150" src="https://emoji.gg/emoji/9043-catkiss">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arileles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
-  <img height="150" src="https://emoji.gg/emoji/9043-catkiss">
+  <img height="150" href="https://emoji.gg/emoji/9043-catkiss">
+  <img height="170em" href="https://github-readme-stats.vercel.app/api?username=arileles&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true"/>
+  <img height="150" href="https://emoji.gg/emoji/9043-catkiss">
  
  ##
 
