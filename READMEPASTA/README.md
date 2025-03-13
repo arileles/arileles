@@ -1,12 +1,8 @@
 <div align="center">
  <h1><b><img width="30" height="30" src="src/assets/melodyexcited.gif">
  <i>Oie, Bem Vindo(a) ao meu Perfil!</i>
-  <img width="30" height="30" src="src/assets/melodyexcited.gif" ></b></h1> 
-
-  <a href="https://github.com/arileles">
-  <img src="src/assets/Catkiss.gif" >
- 
- ##
+  <img width="30" height="30" src="src/assets/melodyexcited.gif" ></b></h1>
+  <img src="src/assets/Catkiss.gif">
 
  ### <img height="20" src="src/assets/cat_yipee.gif"> <b>Estudando no Momento</b> <img height="20" src="src/assets/cat_yipee.gif">
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
