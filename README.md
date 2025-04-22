@@ -6,8 +6,6 @@
 
  ### <img height="20" src="src/assets/cat_yipee.gif"> <b>Estudando no Momento</b> <img height="20" src="src/assets/cat_yipee.gif">
  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
- <img alt="Kubernetes" src="https://emoji.gg/emoji/14529-light-green-stars-scroll-right"/> 
- <img alt="Heroku" src="https://emoji.gg/emoji/14529-light-green-stars-scroll-right"/>
 
  ##
   
